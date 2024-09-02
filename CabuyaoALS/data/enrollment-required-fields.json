@@ -1,6 +1,0 @@
-[
-    {"fieldId": "last_name", "message": "Please enter your last name."},
-    {"fieldId": "first_name", "message": "Please enter your first name."},
-    {"fieldId": "middle_name", "message": "Please enter your middle name."},
-    {"fieldId": "student_email", "message": "Please enter your email address."}
-]
