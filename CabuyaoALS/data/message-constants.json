@@ -1,0 +1,26 @@
+{
+    "approved_enrollment": {
+        "approved_subject": "ALS Enrollment Approved",
+        "approved_messageBody": "<p style='font-size: 16px;'>Dear Student,<br><br>We are pleased to inform you that your enrollment in the Alternative Learning System (ALS) has been approved.<br>Please find your temporary login credentials below:<br><br><strong>Temporary Username:</strong> {tempUsername}<br><strong>Temporary Password:</strong> {tempPassword} <br><br>For your security, you will be required to change your password upon your first login.<br><br>We look forward to supporting your learning journey.<br><br>Sincerely,<br>The Cabuyao ALS Team</p>"
+    },
+    "rejected_enrollment": {
+        "rejected_subject": "ALS Enrollment Decision",
+        "rejected_messageBody": "<p style='font-size: 16px;'>Dear Student,<br><br>We regret to inform you that your enrollment in the Alternative Learning System (ALS) has not been accepted at this time.<br><br><strong>Reason:</strong> {reason}<br><br>If you have any questions or require further clarification, please do not hesitate to contact us.<br><br>Sincerely,<br>The Cabuyao ALS Team</p>"
+    },
+    "flt_submission": {
+        "student": {
+            "subject": "You have successfully submit your FLT.",
+            "messageBody": "Thank you for submitting your FLT. An email will be sent to you once assessment is done."
+        },
+        "admin": {
+            "subject": "FLT submitted",
+            "messageBody": "{studentFirstName} {studentLastName} have successfully submit FLT."
+        }
+    },
+    "submit_enrollment": {
+        "admin": {
+            "subject": "An enrollment has been sent",
+            "messageBody": "{studentFirstName} {studentLastName} submitted an enrollment."
+        }
+    }
+}
